@@ -5,6 +5,5 @@ source:
   - heif-gdk-pixbuf
   - heif-thumbnailer
 
-  - gnome-user-docs
   - rygel
   - webp-pixbuf-loader
