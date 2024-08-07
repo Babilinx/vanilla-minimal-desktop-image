@@ -11,5 +11,6 @@ source:
   - gnome-
   - gnome-menus
   - gnome-online-accounts
+  - gnome-tweaks
 
   - blackbox-terminal
