@@ -7,7 +7,6 @@ source:
 
   - gnome-session
   - gnome-shell
-  - gnome-shell-extensions
   - gnome-browser-connector
 
   - dbus-x11
