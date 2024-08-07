@@ -3,7 +3,6 @@ type: apt
 source:
   packages:
   - gnome-disk-utility
-  - gnome-system-monitor
   - gnome-sushi
   - gnome-software
   - ghostscript
