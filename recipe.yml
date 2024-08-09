@@ -3,7 +3,7 @@ id: minimal-desktop
 
 stages:
 - id: build
-  base: ghcr.io/vanilla-os/core:dev
+  base: ghcr.io/vanilla-os/core:main
   singlelayer: false
   labels:
     maintainer: babilinx
