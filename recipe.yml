@@ -75,7 +75,7 @@ stages:
       - modules/200-gnome-common.yml
       - modules/210-libs-extra.yml
       - modules/950-hide-apps.yml
-      - modules/951-reove-apps.yml
+      - modules/951-remove-apps.yml
       - modules/998-vanilla-cleanup.yml
       - modules/999-pkg-cleanup.yml
       - modules/999-clear-first-setup-steps-unit.yml
