@@ -1,0 +1,6 @@
+name: hide-apps
+type: shell
+commands:
+- echo "Hidden=true" >> /usr/share/applications/yelp.desktop
+- echo "Hidden=true" >> /usr/share/applications/im-config.desktop
+- echo "Hidden=true" >> /usr/share/applications/org.vanillaos.Tour.desktop

@@ -57,6 +57,7 @@ stages:
       - modules/20-gnome-core.yml
       - modules/21-gnome-control-center.yml
       - modules/30-gnome-essentials.yml
+      - modules/35-nautilus-terminal-rightclick.yml
       - modules/40-gnome-appearance.yml
       - modules/50-laptop-goodies.yml
       - modules/60-media.yml
@@ -73,7 +74,8 @@ stages:
       - modules/170-gnome-software-vso-plugin.yml
       - modules/200-gnome-common.yml
       - modules/210-libs-extra.yml
-      - modules/900-hide-apps.yml
+      - modules/950-hide-apps.yml
+      - modules/951-remove-apps.yml
       - modules/998-vanilla-cleanup.yml
       - modules/999-pkg-cleanup.yml
       - modules/999-clear-first-setup-steps-unit.yml

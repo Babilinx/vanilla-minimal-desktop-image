@@ -1,0 +1,4 @@
+name: remove-apps
+type: shell
+commands:
+- apt remove -y yelp gnome-themes-extra gnome-user-docs
