@@ -1,11 +1,11 @@
 {
     "autoRepair": true,
-    "maxParallelDownloads": 2,
+    "maxParallelDownloads": 4,
 
     "registry": "ghcr.io",
     "registryService": "registry.ghcr.io",
     "registryAPIVersion": "v2",
-    "name": "changed_automatically_by_vib",
+    "name": "babilinx/minimal-desktop",
     "tag": "main",
 
     "iPkgMngPre": "lpkg --unlock",
