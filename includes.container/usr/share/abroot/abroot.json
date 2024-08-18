@@ -1,6 +1,6 @@
 {
     "autoRepair": true,
-    "maxParallelDownloads": 2,
+    "maxParallelDownloads": 4,
 
     "registry": "ghcr.io",
     "registryService": "registry.ghcr.io",
